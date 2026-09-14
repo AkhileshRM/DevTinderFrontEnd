@@ -29,6 +29,9 @@ const Premium = () => {
         name: notes.firstName + " " + notes.lastName,
         email: notes?.emailId,
         contact: "9999999999",
+      },
+      theme:{
+        color:"#F37254"
       }
     };
 
